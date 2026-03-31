@@ -16,7 +16,10 @@
 ## 🪪 Sobre mim
 
 Atualmente, sou estudante de Ciência da Computação na Faculdade Unimetrocamp e Estagiário em TI no Canal Solar, com o objetivo de construir uma carreira sólida na área de tecnologia, especialmente na área de desenvolvimento web, back-end, Full Stack.
-Minha trajetória começou com o curso técnico em Mecatrônica pelo Senai Roberto Mange, onde desenvolvi uma base sólida em tecnologia, lógica e processos automatizados. Paralelamente, busquei aprimorar meus conhecimentos em informática, realizando cursos voltados ao pacote Office e ao uso de ferramentas digitais. Busco constantemente aprimorar minhas habilidades e contribuir com soluções tecnológicas que gerem valor para contribuir com empresas e sempre aprimorar meus conhecimentos.
+
+Minha trajetória começou com o curso técnico em Mecatrônica pelo Senai Roberto Mange, onde desenvolvi uma base sólida em tecnologia, lógica e processos automatizados. Paralelamente, busquei aprimorar meus conhecimentos em informática, realizando cursos voltados ao pacote Office e ao uso de ferramentas digitais.
+
+Busco constantemente aprimorar minhas habilidades e contribuir com soluções tecnológicas que gerem valor para empresas.
 
 ---
 
@@ -26,11 +29,12 @@ Minha trajetória começou com o curso técnico em Mecatrônica pelo Senai Rober
   
   ![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
   ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  ![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+  ![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
 </div>
 
 ---
@@ -44,11 +48,12 @@ Algumas das tecnologias e ferramentas que mais utilizo e com as quais tenho bast
   ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
   ![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)
   ![Laravel](https://img.shields.io/badge/laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
+  ![VS Code](https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+  ![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
 </div>
 
 ---
@@ -57,9 +62,9 @@ Algumas das tecnologias e ferramentas que mais utilizo e com as quais tenho bast
 
 <div align="center">
  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciussilva-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=viniciussilva-dev&show_icons=true&theme=tokyonight" />
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciussilva-dev&layout=compact&langs_count=7&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=viniciussilva-dev&layout=compact&theme=tokyonight" />
 
 </div>
 
@@ -82,5 +87,5 @@ Algumas das tecnologias e ferramentas que mais utilizo e com as quais tenho bast
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=viniciussilva-dev" />
+  <img src="https://komarev.com/ghpvc/?username=viniciussilva-dev&color=blue&style=flat-square&label=Visualizações+do+perfil" />
 </div>
