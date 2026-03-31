@@ -23,7 +23,6 @@ Minha trajetória começou com o curso técnico em Mecatrônica pelo Senai Rober
 ## 🧠 Conhecimentos
 
 <div align="left">
-  <img src="https://camo.githubusercontent.com/e98dd586f182794534abbd3119275641d036a5feb5889c8f0776afe0e747a0e3/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f747970657363726970742f747970657363726970742d6f726967696e616c2e737667" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
