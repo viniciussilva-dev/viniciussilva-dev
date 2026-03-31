@@ -39,7 +39,11 @@ Minha trajetória começou com o curso técnico em Mecatrônica pelo Senai Rober
 
 Algumas das tecnologias e ferramentas que mais utilizo e com as quais tenho bastante afinidade:
 
-<div align="left">
+<div align="left"> 
+  
+  ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+  ![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)
+  ![Laravel](https://img.shields.io/badge/laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
@@ -52,7 +56,9 @@ Algumas das tecnologias e ferramentas que mais utilizo e com as quais tenho bast
 ## 📊 GitHub Stats
 
 <div align="center">
+ 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciussilva-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciussilva-dev&layout=compact&langs_count=7&theme=tokyonight" />
 </div>
 
